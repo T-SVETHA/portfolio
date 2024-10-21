@@ -46,7 +46,7 @@ function Home2() {
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
-              ...;like
+               like
               <i>
                 <b className="purple"> React.js</b>
               </i>
